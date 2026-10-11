@@ -1,0 +1,15 @@
+{
+  "name": "q2w4e6r8t1y3-0520",
+  "main": "_worker.js",
+  "compatibility_date": "2024-10-11",
+  "vars": {
+    "ADMIN": "Nashei0802@",
+    "UUID": "3c4d5e6f-7a8b-4c9d-0e1f-2a3b4c5d6e7f"
+  },
+  "kv_namespaces": [
+    {
+      "binding": "KV",
+      "id": "9d78eecf00ab417480feca1417533be4"
+    }
+  ]
+}
